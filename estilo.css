@@ -78,6 +78,25 @@ body {
   margin: 0;
 }
 
+.slide:nth-child(5) {
+  background-color: #166461;
+  margin: 0;
+}
+
+.slide:nth-child(6) {
+  background-color:#bcddb3;
+  margin: 0;
+}
+
+.slide:nth-child(7) {
+  background-color: #166461;
+  margin: 0;
+}
+
+.slide:nth-child(8) {
+  background-color:#bcddb3;
+  margin: 0;
+}
 footer {
   padding: 1em;
   text-align: center;
